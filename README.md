@@ -15,8 +15,6 @@ We applied the methodology outlined in our earlier paper, building a model to fo
 
 The objective is to predict the rate of weekly initial claims for unemployment using google search keywords. 
 
-Linear Regression was to TO FIT THE MODEL.
-
 DATA: The Federal Reserve Economic data set was obtained from economic research division of Federal Reserve Bank of St Louis. 
 The data consist of the weekly initial claims for unemployment insurance in the US, as reported by the US Federal Reserve. 
 For economic decisions based on these and similar numbers, it would help to have an early forecast of the current week's number as of the close of the week.
