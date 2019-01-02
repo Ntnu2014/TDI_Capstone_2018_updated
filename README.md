@@ -1,6 +1,6 @@
 # Data-Inc_Capstone_2018_updated
 
- Click here to see the project presentation
+ Click [here]()   to see the project presentation
 
 PROJECT TITLE 
 Weekly initial claims for unemployment in the US and google search data.
